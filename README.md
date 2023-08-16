@@ -22,7 +22,19 @@ Constant variables cant be changed in any way, Define one by prefixing 'const'. 
 const float pi = 3.14
 ```
 # Importing
-The the 'using' keyword to import a package/library
+Use the 'using' keyword to import a package/library
 ```c#
 using System
+```
+You can also import from specific places.
+```c#
+using coolFunction from coolLibrary
+```
+# Loops
+There are 4 types of loops, One is using the 'while' keyword, which will run code forever until the given condition is false.
+Heres an example
+```javascript
+while true {
+  println("Forever printing.")
+}
 ```
