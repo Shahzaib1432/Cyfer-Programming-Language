@@ -23,6 +23,6 @@ const float pi = 3.14
 ```
 # Importing
 The the 'using' keyword to import a package/library
-```java
+```c#
 using System
 ```
